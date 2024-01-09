@@ -18,9 +18,10 @@
 
 ## GitHub Stats
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kh-aymen&show_icons=true&theme=highcontrast" />
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-aymen&theme=great-gatsby&layout=compact" />
+<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=kh-aymen&show_icons=true&theme=highcontrast" />
+<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-aymen&theme=great-gatsby&layout=compact" />
 
+<div/>
 
 ## Skills
 
@@ -38,7 +39,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)&nbsp;&nbsp;
 ![And More](https://img.shields.io/badge/-And%20More-555555?style=flat)&nbsp;&nbsp;
 
-
 ## I Use
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;&nbsp;
@@ -50,12 +50,10 @@
 ![Opera GX](https://img.shields.io/badge/-Opera%20GX-FF1B2D?style=flat&logo=opera-gx&logoColor=white)&nbsp;&nbsp;
 ![And More](https://img.shields.io/badge/-And%20More-555555?style=flat)&nbsp;&nbsp;
 
-
 ## UI/UX
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![And More](https://img.shields.io/badge/-And%20More-555555?style=flat)&nbsp;&nbsp;
-
 
 ## Social Media
 
@@ -63,6 +61,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
+
 
 <!-- <a href="https://www.linkedin.com/in/pius-sunday-ojwo/">
     <img src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white"/>
