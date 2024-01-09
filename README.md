@@ -62,7 +62,7 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="www.linkedin.com/in/khalfi-aymen/">
+<a href="https://www.linkedin.com/in/khalfi-aymen/">
     <img src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
