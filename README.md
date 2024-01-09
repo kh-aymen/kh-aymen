@@ -18,8 +18,8 @@
 
 ## GitHub Stats
 
-<img align="left" width="100%" hieght="200px" src="https://github-readme-stats.vercel.app/api?username=kh-aymen&show_icons=true&theme=highcontrast" />
-<img align="left" width="100%" hieght="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-aymen&theme=great-gatsby&layout=compact" />
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=kh-aymen&show_icons=true&theme=highcontrast" />
+<img align="left" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-aymen&theme=great-gatsby&layout=compact" />
 
 <div/>
 
