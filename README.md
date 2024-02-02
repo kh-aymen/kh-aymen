@@ -14,7 +14,7 @@
 
 - 📫 Hire me [Resume-CV]()
 
-- ⚡ Fun fact: I watch anime a lot, and I'm a gamer.
+- ⚡ Fun fact: I watch anime and movies a lot, and I'm a gamer.
 
 ## GitHub Stats
 
