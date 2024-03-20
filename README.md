@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **<khalfiaymen.fl@gmail.com>** or **<aymen.khalfi@univ-constantine2.dz>**
 
-- 📫 Hire me [Resume-CV](https://www.canva.com/design/DAF_ZX425ow/P8m5xNU53soFvh4kGkb7Hg/view?utm_content=DAF_ZX425ow&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📫 Hire me [Resume-CV]([https://www.canva.com/design/DAF_ZX425ow/P8m5xNU53soFvh4kGkb7Hg/view?utm_content=DAF_ZX425ow&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGACq0ZXHY/qRmI3VpWwra40Y5GrC67lQ/view?utm_content=DAGACq0ZXHY&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 - ⚡ Fun fact: I watch anime and movies a lot, and I'm a gamer.
 
