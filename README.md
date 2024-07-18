@@ -28,7 +28,7 @@
 <a href="https://github.com/kh-aymen">
   <img width="49.5%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kh-aymen&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img width="49.5%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kh-aymen&layout=compact&langs_count=8&theme=highcontrast&count_private=true"/>
-</a>
+</a> 
 </p>
 
 <div/>
